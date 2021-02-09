@@ -5,7 +5,14 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
 
+ var ratIcon = L.icon({
+    iconUrl:'https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-police-front-01-512.png',
+    iconSize: [50,40]
+  });
+  // load GeoJSON from an external file
+
 $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/master/Week%201/sf_crime.geojson",function(data){
+	L.geoJson(data).addTo(map)
   var ratIcon = L.icon({
     iconUrl: 'rat.gif',
     iconSize: [50,40]
@@ -14,6 +21,4 @@ $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/
     pointToLayer: function(feature,latlng){
 	  return L.marker(latlng,{icon: ratIcon});
     }
-  }
-  }).addTo(mymap);
-});
+  });
