@@ -6,7 +6,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/master/Week%201/sf_crime.geojson",function(data){
-  L.geoJSON(data).addTo(map);
   var ratIcon = L.icon({
     iconUrl: 'rat.gif',
     iconSize: [50,40]
@@ -15,5 +14,6 @@ $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/
     pointToLayer: function(feature,latlng){
 	  return L.marker(latlng,{icon: ratIcon});
     }
+  }
   }).addTo(mymap);
 });
