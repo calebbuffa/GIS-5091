@@ -7,3 +7,14 @@ L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}
 	maxZoom: 20,
 	ext: 'png'
 }).addTo(map);
+
+$.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/master/Week%201/sf_crime.geojson",function(data){
+  var ratIcon = L.icon({
+    iconUrl: 'rat.gif',
+    iconSize: [50,40]
+  }); 
+  L.geoJson(data  ,{
+    pointToLayer: function(feature,latlng){
+	  return L.marker(latlng,{icon: ratIcon});
+    }
+  }).addTo(map)});
