@@ -9,7 +9,6 @@ $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/
   var ratIcon = L.icon({
     iconUrl: 'rat.png',
     iconSize: [50,40]
-  }); 
   L.geoJson(data  ,{
     pointToLayer: function(feature,latlng){
 	  return L.marker(latlng,{icon: ratIcon});
