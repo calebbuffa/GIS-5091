@@ -11,8 +11,7 @@ L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}
 $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/master/Week%201/sf_crime.geojson",function(data){
   var ratIcon = L.icon({
     iconUrl: 'rat.png',
-    iconSize: [50,40]
-  }); 
+    iconSize: [50,40] 
   L.geoJson(data  ,{
     pointToLayer: function(feature,latlng){
 	  return L.marker(latlng,{icon: ratIcon});
