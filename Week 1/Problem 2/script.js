@@ -6,13 +6,5 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 $.getJSON("https://raw.githubusercontent.com/gbrunner/adv-python-for-gis-and-rs/master/Week%201/sf_crime.geojson",function(data){
-    var ratIcon = L.icon({
-        iconUrl: 'http://maptimeboston.github.io/leaflet-intro/rat.gif',
-        iconSize: [50,40]
-      }); 
-      L.geoJson(data  ,{
-        pointToLayer: function(feature,latlng){
-          return L.marker(latlng,{icon: ratIcon});
-        }
-      }).addTo(mymap);
-});
+    L.geoJson(data).addTo(map);
+  });
