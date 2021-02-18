@@ -13,53 +13,9 @@ var tstyle = {
   "fillOpacity": 1
 };
 
-$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/terrorism.geojson", function(response) {
-            console.log("response", response);
-            var terrorism = new L.GeoJSON(response, {
-              pointToLayer: function (feature, latlng) {
-                return L.circleMarker(latlng, tstyle);
-              }
-            }
-                                         );
-            terrorism.addTo(map); }); 
-
-L.geoJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/terrorism.geojson", {
+L.geoJSON("terrorism.geojson", {
     pointToLayer: function (feature, latlng) {
         return L.circleMarker(latlng, tstyle);
     }
 }).addTo(map);
-
-var nstyle = {
-    radius: 1,
-    fillColor: "#4dff00",
-    color: "#4dff00",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: .1
-};
-
-$.getJSON("fr_night_light.geojson", function(response) {
-            console.log("response", response);
-            var nlight = new L.GeoJSON(response, {
-              style: nstyle
-            }
-                                         );
-            nlight.addTo(map); }); 
-
-var rstyle = {
-    radius: .5,
-    fillColor: "#000000",
-    color: "#000000",
-    weight: .5,
-    opacity: .3,
-    fillOpacity: .3
-};
-
-$.getJSON("FRA_roads.geojson", function(response) {
-            console.log("response", response);
-            var road = new L.GeoJSON(response, {
-              style: rstyle
-            }
-                                         );
-            road.addTo(map); }); 
 
