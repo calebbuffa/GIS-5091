@@ -15,12 +15,7 @@ var tstyle = {
 
 $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson", function(response) {
             console.log("response", response);
-            var terrorism = new L.GeoJSON(response, {
-              pointToLayer: function (feature, latlng) {
-                return L.circleMarker(latlng, tstyle);
-              }
-            }
-                                         );
+            var terrorism = new L.GeoJSON(response);
             terrorism.addTo(map); }); 
 
 var nstyle = {
