@@ -13,7 +13,7 @@ var tstyle = {
   "fillOpacity": 1
 };
 
-$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/terrorism.geojson", function(response) {
+$.getJSON("terrorism.geojson", function(response) {
             console.log("response", response);
             var terrorism = new L.GeoJSON(response, {
               pointToLayer: function (feature, latlng) {
@@ -32,7 +32,7 @@ var nstyle = {
     fillOpacity: .1
 };
 
-$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/fr_night_light.geojson", function(response) {
+$.getJSON("fr_night_light.geojson", function(response) {
             console.log("response", response);
             var nlight = new L.GeoJSON(response, {
               style: nstyle
@@ -49,7 +49,7 @@ var rstyle = {
     fillOpacity: .3
 };
 
-$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/FRA_roads.geojson", function(response) {
+$.getJSON("FRA_roads.geojson", function(response) {
             console.log("response", response);
             var road = new L.GeoJSON(response, {
               style: rstyle
