@@ -1,0 +1,98 @@
+<html>
+
+<head>
+
+<title> Map 1 </title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+<div id="map"></div>
+
+<style>
+  html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+</style>
+
+</head>
+
+<body>
+
+var map = L.map('map').setView([46.2276, 2.2137], 6);
+
+var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+	attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ',
+	maxZoom: 16
+}).addTo(map);
+
+var tstyle = {
+    "color": "#ff0000",
+  "radius": 3,
+    "weight": 1,
+    "opacity": 1,
+  "fillOpacity": 1
+};
+
+$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/terrorism.geojson", function(response) {
+            console.log("response", response);
+            var terrorism = new L.GeoJSON(response, {
+              pointToLayer: function (feature, latlng) {
+                return L.circleMarker(latlng, tstyle);
+              }
+            }
+                                         );
+            terrorism.addTo(map); }); 
+
+var nstyle = {
+    radius: 1,
+    fillColor: "#4dff00",
+    color: "#4dff00",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: .1
+};
+
+$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/fr_night_light.geojson", function(response) {
+            console.log("response", response);
+            var nlight = new L.GeoJSON(response, {
+              style: nstyle
+            }
+                                         );
+            nlight.addTo(map); }); 
+
+var rstyle = {
+    radius: .5,
+    fillColor: "#000000",
+    color: "#000000",
+    weight: .5,
+    opacity: .3,
+    fillOpacity: .3
+};
+
+$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/Map%201/FRA_roads.geojson", function(response) {
+            console.log("response", response);
+            var road = new L.GeoJSON(response, {
+              style: rstyle
+            }
+                                         );
+            road.addTo(map); }); 
+
+<div id="map"></div>
+
+</body>
+
+</html>
