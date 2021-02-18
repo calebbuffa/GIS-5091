@@ -23,9 +23,9 @@ $.getJSON("terrorism.geojson", function(response) {
                                          );
             terrorism.addTo(map); }); 
 
-L.geoJSON("terrorism.geojson, {
+L.geoJSON("terrorism.geojson", {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        return L.circleMarker(latlng, tstyle);
     }
 }).addTo(map);
 
