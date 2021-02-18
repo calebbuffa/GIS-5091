@@ -23,6 +23,12 @@ $.getJSON("terrorism.geojson", function(response) {
                                          );
             terrorism.addTo(map); }); 
 
+L.geoJSON("terrorism.geojson, {
+    pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+    }
+}).addTo(map);
+
 var nstyle = {
     radius: 1,
     fillColor: "#4dff00",
