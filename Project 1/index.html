@@ -29,7 +29,16 @@
    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
    crossorigin=""></script>
 
-var jsonTest = new L.GeoJSON.AJAX(["terrorism.geojson","fr_ntl.geojson"],{onEachFeature:popUp}).addTo(map);
+(function() {
+  'use strict';
+
+  var map = L.map('mapContainer');
+
+  $.get('data_1.csv', function(csvContents) {
+    var geoLayer = L.geoCsv(csvContents, {firstLineTitles: true, fieldSeparator: ','});
+    map.addLayer(geoLayer);
+  });
+});
       
   <div id="map"></div>
   <script src="script.js"></script>
