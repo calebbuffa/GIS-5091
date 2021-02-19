@@ -30,6 +30,11 @@ var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/r
 	maxZoom: 16
 }).addTo(map);
 
+	    $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson",function(data){
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
+
 var tstyle = {
     "color": "#ff0000",
   "radius": 3,
