@@ -2,14 +2,11 @@
   <head>
 
     <title>Map 1</title>
-
     <meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style>
-      #map { 
-  height: 100%; 
-}
+      #map { position: absolute; top:0; bottom:0; right:0; left:0; }
     </style>
     
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -28,7 +25,8 @@
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 
 <div id="map"></div>
-      </head>
+  </head>
+  
   <body>
     <div id="map"></div>
     <script>
@@ -85,11 +83,11 @@ var rstyle = {
 
 $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/FRA_roads.geojson", function(response) {
             console.log("response", response);
-            var road = new L.GeoJSON(response, {
+            var roads = new L.GeoJSON(response, {
               style: rstyle
             }
                                          );
-            road.addTo(map); }); 
+            roads.addTo(map); }); 
 
 var baseMap = {
     "WorldGrayCanvas": Esri_WorldGrayCanvas,
@@ -101,26 +99,7 @@ var overlayMaps = {
     "Nighttime Lights": nlight
 };
 
-var baseMaps = {
-    "<span style='color: gray'>Grayscale</span>": grayscale,
-    "Streets": streets
-};
-
-L.control.layers(baseMaps, overlayMaps).addTo(map);
-
-var markersLayer = new L.LayerGroup();
-map.addControl( new L.Control.ListMarkers({layer: markersLayer}) );
-
-var popup = L.popup();
-
-function onMapClick(e) {
-    popup
-        .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
-        .openOn(map);
-}
-
-map.on('click', onMapClick);
+L.control.layers(baseMap, overlayMaps).addTo(map);
 
 var legend = L.control({position: 'bottomright'});
     legend.onAdd = function (map) {
