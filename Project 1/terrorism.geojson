@@ -1,0 +1,4575 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.51,48.5538 ]
+    },
+    "properties": {
+    "scite1":"“France: Bomb Attack Damages Tax Office in Northwest,” France-Info Radio, January 13, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.148312,48.057315 ]
+    },
+    "properties": {
+    "scite1":"“Explosive Device Damages Tax Office in Brittany,” France Info Radio, March 11, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.268329,49.846226 ]
+    },
+    "properties": {
+    "scite1":"“French Gas Station Attacked by Molotov Cocktail,” AFP (Domestic Service), April 1, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.142615,43.13453 ]
+    },
+    "properties": {
+    "scite1":"“France: Bomb Attack Believed Committed By Basque IK,” AFP (Domestic Service), April 15, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.159269,41.387174 ]
+    },
+    "properties": {
+    "scite1":"“France: Explosive Attack on Discotheque in Corsica,” AFP (Domestic Service), April 16, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.085787,48.465906 ]
+    },
+    "properties": {
+    "scite1":"“Bomb attack on McDonald’s kills one, police suspect Breton nationalists,” Agence France Presse, April 19, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.701547999999999,42.113828000000005 ]
+    },
+    "properties": {
+    "scite1":"“France: Corsican Bank Badly Damaged in Bomb Blast,” France Info Radio, April 22, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"Susan Bell, \"Bombs Target French Cabaret and Casinos,\" Agence France Presse, May 4, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.10836,43.569246 ]
+    },
+    "properties": {
+    "scite1":"Susan Bell, \"Bombs Target French Cabaret and Casinos,\" Agence France Presse, May 4, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.151576,43.330673 ]
+    },
+    "properties": {
+    "scite1":"Susan Bell, \"Bombs Target French Cabaret and Casinos,\" Agence France Presse, May 4, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "scite1":"\"France: Explosive Attack on Corsica Ferry Company Foiled,\" France Info Radio, May 21, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278311,41.591369 ]
+    },
+    "properties": {
+    "scite1":"\"France: Two Businesses Seriously Damaged in Bomb Attack in Southern Corsica\", Agence France Presse, June 04, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"\"France - terrorism bomb found near Paris conference center,\" EFE News Service, June 26, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.937046,42.636509999999994 ]
+    },
+    "properties": {
+    "scite1":"\"Former nationalist leader gunned down in Corsica,\" Agence France-Presse, August 7, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"\"France: Corsican Administrative Offices Seriously Damaged by Car Bomb,” France Info Radio, August 13, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.97472,41.621821999999995 ]
+    },
+    "properties": {
+    "scite1":"Robert Graham, “Corsican rocket attack blamed on nationalists,” Financial Times, August 18, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Fourth blast in a month rocks Corsica,\" Agence France-Presse, August 26, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.213233,41.369785 ]
+    },
+    "properties": {
+    "scite1":"\"France: Bomb Attack on Corsican Villa as 13 Separatists on Trial,\" France Info Radio, September 13, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"\"New attacks on synagogues in France,\" Agence France-Presse, October 11, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"\"New attacks on synagogues in France,\" Agence France-Presse, October 11, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "scite1":"“Car bomb found in Marseilles,” Agence France Presse, October 20, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.399376,43.361106 ]
+    },
+    "properties": {
+    "scite1":"“Terrorists Attack Targets in French, Spanish Basque Country,” RNE Radio 1, October 21, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Small bomb blast in Corsica at office of conservative opposition,” Associated Press Worldstream, October 24, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.766148,43.359398999999996 ]
+    },
+    "properties": {
+    "scite1":"\"France: Gasoline Bomb Attack on Basque Post Office,” Agence France Presse, November 10, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149022,42.309409 ]
+    },
+    "properties": {
+    "scite1":"\"Car Bomb Attack in Corsica Causes 'Extensive Damage' to Government Building,” France-2 Television, November 20, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.393236,47.285447999999995 ]
+    },
+    "properties": {
+    "scite1":"\"One Killed in Suspected Terrorist Attack in France,” Xinhua, November 24, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"\"Police dismantle explosives in car at Corsican military HQ,\" Agence France-Presse, December 2, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149022,42.309409 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican government office damaged in blast,\" Associated Press, December 31, 2000."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.129487,45.899217 ]
+    },
+    "properties": {
+    "scite1":"“Explosion Blows out Windows at Annecy Courthouse,” Associated Press, January 23, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.718551000000001,45.184327 ]
+    },
+    "properties": {
+    "scite1":"\"Eta dynamite raid in Grenoble,\" The Financial Times, March 9, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"Elizabeth Bryant, \"Car Bomb Defused in France,\" United Press International, March 22, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.159269,41.387174 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican separatists bomb villa,\" Associated Press, June 24, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican Militant Commando Attacks Half-Built Police Station,\" Agence Presse France, July 06, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"\"Bomb attack on gendarmerie unit in Corsica,\" Agence France Presse, July 23, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.760627000000001,41.846517 ]
+    },
+    "properties": {
+    "scite1":"“Corsican group claims four attacks, denies involvement in murders,” AFP, August 30, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278311,41.591369 ]
+    },
+    "properties": {
+    "scite1":"“Corsican group claims four attacks, denies involvement in murders,” AFP, August 30, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"“Lebanese consulate in Paris targeted in arson attack,” AFP (Domestic Service), August 12, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Corsican group claims four attacks, denies involvement in murders,” Agence France Presse, August 30, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Islamic/Aegean Terrorism Review 20 Aug,” FBIS, August 20, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Corsican policeman targeted in car bomb attack,” Info Radio, August 27, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.406347,43.329845 ]
+    },
+    "properties": {
+    "scite1":"\"Customs officer’s home in French Basque country fire-bombed,” Agence France Presse, September 8, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324493,48.936405 ]
+    },
+    "properties": {
+    "scite1":"\"France: Home-made Bomb Found Outside Synagogue Near Paris,” Agence France Presse, September 12, 2001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.45459,43.395936 ]
+    },
+    "properties": {
+    "scite1":"\"Policeman’s Home Target of Petrol Bomb Attack in French Basque Country,” Agence France Presse, September 30, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.370797,43.2951 ]
+    },
+    "properties": {
+    "scite1":"“French navy recruitment centre attacked,” Agence France Presse, October 11, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.512429,42.104248 ]
+    },
+    "properties": {
+    "scite1":"\"Bomb blast at Corsican newspaper office, no one injured,\" Agence France-Presse, October 22, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"“French police barracks in Corsica attacked for second time,” Paris France Info Radio, November 6, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.881647,43.361792 ]
+    },
+    "properties": {
+    "scite1":"“Police officer's house targeted in petrol bomb attack in French Basque country,\" Agence France Presse, December 9, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.439183,42.492576 ]
+    },
+    "properties": {
+    "scite1":"“Two bungalows destroyed in explosive attack in Corsica,\" Paris AFP, December 21, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"Thomas B. Edsall, \"Passenger subdued on plane; Bomb fears prompt incident over Atlantic,\" The Washington Post, December 23, 2001."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Bomb found at home of Corsican judge,” Paris France Inter Radio, January 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.663055,43.388051000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Radicals blamed as estate agents firebombed in French Basque Country,\" Madrid EFE, February 2, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.766148,43.359398999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Radicals blamed as estate agents firebombed in French Basque Country,\" Madrid EFE, February 2, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.330645,41.94122 ]
+    },
+    "properties": {
+    "scite1":"\"Two villas under construction destroyed in attack on Corsica - French police,\" Agence France Presse, February 3, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.330645,41.94122 ]
+    },
+    "properties": {
+    "scite1":"\"Two villas under construction destroyed in attack on Corsica - French police,\" Agence France Presse, February 3, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“French Customs’ Patrol Boat Damaged in Explosive Attack in Corsica,” Agence France Presse, February 12, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.065448,50.631368 ]
+    },
+    "properties": {
+    "scite1":"“Explosion Injures Four People at Muslim Butcher Shop,” Associated Press Worldstream, March 24, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "scite1":"\"Jewish targets including synagogues attacked in France: Families take part in an evening Passover cermony beside the charred remains of a synagogue, which burned down after an attack on Sunday,\" The Guardian, 04/03/2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.748562,48.605191999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Remains of a synagogue, which burned down after an attack on Sunday,\" The Guardian, 04/03/2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356437,48.809048 ]
+    },
+    "properties": {
+    "scite1":"\"5 detained in attack on synagogue,\" Deseret News, 04/05/2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.747882000000001,48.583148 ]
+    },
+    "properties": {
+    "scite1":"Robert Graham, \"Anti-Jewish tension spills over in France,\" Financial Times, 04/06/2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.330645,41.94122 ]
+    },
+    "properties": {
+    "scite1":"“German villa destroyed in explosive attack in Corsica,” Agence France Presse, May 7, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.419263,42.613144 ]
+    },
+    "properties": {
+    "scite1":"\"May 10-11 Corsica: Council roads firm offices badly damaged in attack on French island of Corsica,” Agence France Presse, May 12, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.419263,42.613144 ]
+    },
+    "properties": {
+    "scite1":"“Council roads firm offices badly damaged in attack on French island of Corsica,” Agence France Presse, May 12, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.444209,43.604652 ]
+    },
+    "properties": {
+    "scite1":"“French charity target of arson attack, \"neo-Nazi\" graffiti,” France Info Radio, May 13, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"\"Attackers throw gasoline bombs at suburban Paris synagogue,\" Associated Press, January 6, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"French Police Barracks Destroyed in Corsica Bomb Blast,\" LCI Television, July 18, 2002."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.512429,42.104248 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.402963,41.999291 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Fourteen explosions in Corsica; one person injured,\" Associated Press Newswires, October 18, 2002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"“French Rabbi Describes Knife Attack,” Radio France Internationale, January 3, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"“French President Condemns Stabbing of Parisian Rabbi,” LCI Television, January 6, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Two bomb explosions in Corsica overnight.” Agence France Presse. January 13, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.423397999999999,42.749323 ]
+    },
+    "properties": {
+    "scite1":"“Two bomb explosions in Corsica overnight.” Agence France Presse. January 13, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"“Two buildings damaged in bomb attacks in French island of Corsica, LCI Television, January 17, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"“Two buildings damaged in bomb attacks in French island of Corsica, LCI Television, January 17, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Two buildings damaged in bomb attacks in French island of Corsica, LCI Television, January 17, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.334552,41.734041 ]
+    },
+    "properties": {
+    "scite1":"“Villa Destroyed in Explosives Attack on French Island of Corsica,” Agence France Presse, March 10, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Officials Condemn Explosion Targeting Corsican Government Building,” La Chaine Info Television, March 16, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Bomb Targets Restaurant on French Island of Corsica,” Paris RTL Radio, March 20, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.271379,48.730752 ]
+    },
+    "properties": {
+    "scite1":"“Synagogue Targeted in Petrol Bomb Attack in Northern France,” France Info Radio, March 30, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.060325,49.035616999999995 ]
+    },
+    "properties": {
+    "scite1":"“Arson damages McDonalds outlet in France,” LCI Television, April 14, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Bomb damages Moroccans' office on French island of Corsica,” AFP, April 24, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.760627000000001,41.846517 ]
+    },
+    "properties": {
+    "scite1":"\"Separatist group claims three attacks on French island of Corsica.\" Agence France Presse, May 17, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"North African community targeted in attacks on French island of Corsica,\" Agence France Presse, May 26, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"North African community targeted in attacks on French island of Corsica,\" Agence France Presse, May 26, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"\"Bomb targets beach restaurant on French island of Corsica,\" France Info radio, May 29, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,42.066583 ]
+    },
+    "properties": {
+    "scite1":"“Explosions in Corsica Destroy four vacation homes,” Agence France Presse, July 07, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,42.066583 ]
+    },
+    "properties": {
+    "scite1":"“Explosions in Corsica Destroy four vacation homes,” Agence France Presse, July 07, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,42.066583 ]
+    },
+    "properties": {
+    "scite1":"“Explosions in Corsica Destroy four vacation homes,” Agence France Presse, July 07, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,42.066583 ]
+    },
+    "properties": {
+    "scite1":"“Explosions in Corsica Destroy four vacation homes,” Agence France Presse, July 07, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Suspected nationalists launch new wave of attacks on Corsica,” Agence France Presse, July 15, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Suspected nationalists launch new wave of attacks on Corsica,” Agence France Presse, July 15, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.159269,41.387174 ]
+    },
+    "properties": {
+    "scite1":"“Suspected nationalists launch new wave of attacks on Corsica,” Agence France Presse, July 15, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.797756,42.166552 ]
+    },
+    "properties": {
+    "scite1":"“Anonymous caller claims failed attack on Corsican Police Station,” Agence France Presse, July 14, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.265592,43.696036 ]
+    },
+    "properties": {
+    "scite1":"“Sixteen injured in two bomb attacks in Nice, southern France,” France Info Radio, July 20, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.265592,43.696036 ]
+    },
+    "properties": {
+    "scite1":"“Sixteen injured in two bomb attacks in Nice, southern France,” France Info Radio, July 20, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.512429,42.104248 ]
+    },
+    "properties": {
+    "scite1":"“Bomb explosion causes \"serious damage\" to house in northern Corsica,” Agence France Presse Paris, August 3, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.417273,42.547135 ]
+    },
+    "properties": {
+    "scite1":"“Two overnight bombs in France's Corsica, material damage only,” BBC Monitoring, August 4, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.783333,41.883333 ]
+    },
+    "properties": {
+    "scite1":"“Two overnight bombs in France's Corsica, material damage only,” BBC Monitoring, August 4, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.265592,43.696036 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican Separatist Group Claims Responsibility for Attacks on French Mainland,\" Info Radio, October, 14, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican Separatist Group Claims Responsibility for Attacks on French Mainland,\" Info Radio, October, 14, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Daylight bomb attack greets visit to Corsica by France's Sarkozy,\" Info Radio, October 16, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"\"Failed Car Bomb Attack on Gendarmerie Barracks in Corsica,” Agence France Presse, November 10, 2003."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.553621,47.218371000000005 ]
+    },
+    "properties": {
+    "scite1":"\"French prefect car-bomb was rudimentary, local lead sought: report,\" Agence France Presse, January 20, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Two Fresh Bomb Attacks in Corsica,” LCI Television, April 20, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Two Fresh Bomb Attacks in Corsica,” LCI Television, April 20, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.325431,42.010303 ]
+    },
+    "properties": {
+    "scite1":"“Corsican building site targeted in explosion,” Paris AFP, June 3, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.414214999999999,42.657985 ]
+    },
+    "properties": {
+    "scite1":"“Corsican superstore warehouse targeted in bomb attack,” Paris Europe 1 Radio, June 10, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Fresh bomb attack in Corsica targets government office,” Agence France Presse, July 16, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Property belonging to Moroccan, Italian targets of explosive attacks in Corsica,” Paris AFP, September 12, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.492341999999999,42.397834 ]
+    },
+    "properties": {
+    "scite1":"“Property belonging to Moroccan, Italian targets of explosive attacks in Corsica,” Paris AFP, September 12, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"“Investigators keep open mind over Indonesian embassy blast in Paris,” Agence France Presse, October 8, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.512429,42.104248 ]
+    },
+    "properties": {
+    "scite1":"\"French anti-terrorist officials probe Corsican police station blast,\" Agence France Presse, October 22, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.457701,42.644346999999996 ]
+    },
+    "properties": {
+    "scite1":"LCI Television, November 02, 2004."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149022,42.309409 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, \"Three injured in explosion at Corsica university building: police,\" January 4, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Charge de faible puissance à l'entrée d'un parking du centre de Bastia,” January 20, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.424047,42.554742 ]
+    },
+    "properties": {
+    "scite1":"\"Administrative Premises Damaged in Explosive Attack in Corsica,” France Info Radio, January 24, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.207071000000001,42.463596 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Attentat contre une gendarmerie en Haute-Corse, pas de dégâts ni blessés,” February 26, 2005"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278311,41.591369 ]
+    },
+    "properties": {
+    "scite1":"Nouvelles Tele-Radio, “Une résidence principale visée par un attentat à Porto Vecchio,” February 25, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse – English, “Suspected Corsican separatists fire anti-tank rocket at police barracks,” March 4, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149022,42.309409 ]
+    },
+    "properties": {
+    "scite1":"Reuters, “France - Attentat contre l'office du tourisme de Corte, en Corse,” March 7, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.835788,42.014317999999996 ]
+    },
+    "properties": {
+    "scite1":"“Another building attacked in Corsica,” Agence France Presse, March 9, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149022,42.309409 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Coups de feu contre la gendarmerie de Corte,” March 8, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Platts, “French EDF hopes to restore power to Corsica by weekend,” March 9, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Corsican blast targets departmental office, slightly wounds two children,” French La Chaine Info TV, March 11, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Restaurant severely damaged in Corsica bomb blast,” March 14, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149022,42.309409 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Tentative d'attentat contre un local de France Telecom à Corte (Haute Corse),” March 23, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.417273,42.547135 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Corse: attentat contre les bureaux d'une carrière de pierres,” March 24, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.757222,42.567651 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Attentat contre un local technique d'EDF-GDF en Haute-Corse: légers dégâts,” March 31, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.675432,43.387537 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Jet d'un cocktail molotov devant le domicile de Michèle Alliot-Marie,” April 30, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.417273,42.547135 ]
+    },
+    "properties": {
+    "scite1":"“Agriculture office bombed in Corsica,” Agence France Presse, April 30, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"Reuters, “Corse – Une annexe du tribunal de Bastia plastiquée,” May 11, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Attentat a Ajaccio: au moins quatres personnes transportées a l’hopital (police),” May 15, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.414214999999999,42.657985 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Two town halls in Corsica bombed, damaged,” May 23, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.419263,42.613144 ]
+    },
+    "properties": {
+    "scite1":"Agence France Press, “Two town halls in Corsica bombed, damaged,” May 23, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“5 Bomb Attacks in Corsica Cause Slight Damage,” LCI Television, May 29, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.417273,42.547135 ]
+    },
+    "properties": {
+    "scite1":"“5 Bomb Attacks in Corsica Cause Slight Damage,” LCI Television, May 29, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.701547999999999,42.113828000000005 ]
+    },
+    "properties": {
+    "scite1":"“5 Bomb Attacks in Corsica Cause Slight Damage,” LCI Television, May 29, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278311,41.591369 ]
+    },
+    "properties": {
+    "scite1":"“5 Bomb Attacks in Corsica Cause Slight Damage,” LCI Television, May 29, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.595838,42.134855 ]
+    },
+    "properties": {
+    "scite1":"“5 Bomb Attacks in Corsica Cause Slight Damage,” LCI Television, May 29, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278311,41.591369 ]
+    },
+    "properties": {
+    "scite1":"“Main Separatist Group Claims Responsibility for Three Attacks in Corsica,” Paris AFP, July 28, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Main Separatist Group Claims Responsibility for Three Attacks in Corsica,” Paris AFP, July 28, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.595838,42.134855 ]
+    },
+    "properties": {
+    "scite1":"“Main Separatist Group Claims Responsibility for Three Attacks in Corsica,” Paris AFP, July 28, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.474841,43.492948999999996 ]
+    },
+    "properties": {
+    "scite1":"“French Police Cautious Over Basque Lead in Defused Bomb Case,” France Info Radio, August 11, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse – English, “Rocket attack in Corsica linked to major union unrest,” September 30, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.832884,42.577588 ]
+    },
+    "properties": {
+    "scite1":"“Three second homes in Corsica damaged in bomb attacks,” Agence France Presse, December 22, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.832884,42.577588 ]
+    },
+    "properties": {
+    "scite1":"“Three second homes in Corsica damaged in bomb attacks,” Agence France Presse, December 22, 2005."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Army Recruitment Office in Corsica Slightly Damaged in Bomb Attack,” AFP, January 6, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278311,41.591369 ]
+    },
+    "properties": {
+    "scite1":"“Halal Butcher Shop Extensively Damaged in Corsican Attack,” AFP, January 19, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Flat, villa damaged in separate attacks in Corsica,” AFP (Domestic Service), January 20, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.701547999999999,42.113828000000005 ]
+    },
+    "properties": {
+    "scite1":"“Villa Targeted in Failed Bomb Attack in Corsica,” AFP (Domestic Service), January 19, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.701547999999999,42.113828000000005 ]
+    },
+    "properties": {
+    "scite1":"“Flat, villa damaged in separate attacks in Corsica,” AFP (Domestic Service), January 20, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.447426999999999,43.529742 ]
+    },
+    "properties": {
+    "scite1":"“Arms Caches, Dynamite Found in France After Separatist Bomb Attack,” France Info Radio, January 23, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.473267,42.467512 ]
+    },
+    "properties": {
+    "scite1":"“Three More Bomb Explosions Reported in Corsica,” AFP (Domestic Service), January 24, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.470516,42.435269 ]
+    },
+    "properties": {
+    "scite1":"“Three More Bomb Explosions Reported in Corsica,” AFP (Domestic Service), January 24, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.490362,42.331070000000004 ]
+    },
+    "properties": {
+    "scite1":"“Three More Bomb Explosions Reported in Corsica,” AFP (Domestic Service), January 24, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.758887,42.121235999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican Separatists Bomb French-owned Villas,” Agence France Presse, February 3, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.758887,42.121235999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican Separatists Bomb French-owned Villas,” Agence France Presse, February 3, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,42.066583 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican Separatists Bomb French-owned Villas,” Agence France Presse, February 3, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.917616,41.716815000000004 ]
+    },
+    "properties": {
+    "scite1":"“Several Houses Damaged in Two Bomb Attacks in Corsica,” Agence France Presse, February 4, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"“Gunman Opens Fire on Police Building in Corsica, No Casualties,” France Info Radio, February 10, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.771765,41.772597 ]
+    },
+    "properties": {
+    "scite1":"“Bomb Attack on Corsican Villa ‘Dedicated’ to Dead Separatist Militant,” Agence France Presse, February 17, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"Separatists bomb holiday homes in Corsica, Agence France Presse—English, March 4, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,42.066583 ]
+    },
+    "properties": {
+    "scite1":"Associated Press Worldstream, “Three explosions hit resort complex in southern Corsica; no casualties reported,” March 4, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"“Firebomb thrown at Turkish consulate in Paris,” Associated Press Worldstream, April 05, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.474841,43.492948999999996 ]
+    },
+    "properties": {
+    "scite1":"“Three home-made bombs found in French Basque country,” Paris AFP (Domestic Service) in French, April 14, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.474841,43.492948999999996 ]
+    },
+    "properties": {
+    "scite1":"“Three home-made bombs found in French Basque country,” Paris AFP (Domestic Service) in French, April 14, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.474841,43.492948999999996 ]
+    },
+    "properties": {
+    "scite1":"“Three home-made bombs found in French Basque country,” Paris AFP (Domestic Service) in French, April 14, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.771765,41.772597 ]
+    },
+    "properties": {
+    "scite1":"Associated Press Worldstream, “Paris counterterrorism authorities investigate bombing, hostage-taking in Corsica,” April 23, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"French army offices bombed in Corsica ahead of Sarkozy visit,” Paris France-2 Television, April 28, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Six small bombs go off in Corsica,\" Associated Press Worldstream, May 12, 2006"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Bomb Attacks in Corsica Target Tax Office, Piano Bar,” AFP (Domestic Service), July 3, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"“Bomb Attacks in Corsica Target Tax Office, Piano Bar,” AFP (Domestic Service), July 3, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "scite1":"“Premises of ruling UMP party petrol bombed in south of France,” AFP (Domestic Service), July 3, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.807638,42.047012 ]
+    },
+    "properties": {
+    "scite1":"“Villa badly damaged in bomb attack in Corsica,” Paris AFP, August 6, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Bastia courthouse targeted in bomb attack in Corsica,\" Agence France Presse, September 17, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Bahrain News Agency, “Blast destroys café in Corsica,” September 22, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French defence minister slams 'cowardly' failed attack in Corsica,\" Agence France Presse, September 29, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Police van damaged in bomb attack in Corsica,” Paris AFP (Domestic Service) in French, October 2, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.414214999999999,42.657985 ]
+    },
+    "properties": {
+    "scite1":"Car bomb damages Corsican barracks, Paris LCI Television, December 10, 2006."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.06253500000000001,42.885103 ]
+    },
+    "properties": {
+    "scite1":"Xinhua General News Service, “Spanish police identify kidnapped owner of van in ETA bomb attack,” January 1, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.756412,43.315674 ]
+    },
+    "properties": {
+    "scite1":"“Three Bombs in French Basque Country Damage Buildings,” Paris AFP, April 18, 2007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, \"One hurt in bomb blast on French island,\" April 22, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “One hurt in bomb blast on French island,” April 22, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.937046,42.636509999999994 ]
+    },
+    "properties": {
+    "scite1":"“Bomb attack destroys cinema in French island of Corsica,” Agence France Presse, June 12, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.609933,43.421215999999994 ]
+    },
+    "properties": {
+    "scite1":"Bomb blasts damage homes in southern France, AFX International Focus, July 3, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.37825,43.814659999999996 ]
+    },
+    "properties": {
+    "scite1":"BBC Monitoring Europe – Political, “ETA abducted couple with child to ensure cooperation – Spanish daily,” August 30, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.473672,42.264382 ]
+    },
+    "properties": {
+    "scite1":"“Shots fired at imam’s car on French island of Corsica” AFP.  August 28, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"\"Machine gun attack targets court on French island of Corsica,\" Agence France Presse, November 15, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.917616,41.716815000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Machine gun attack targets court on French island of Corsica,\" Agence France Presse, November 15, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4209479999999999,43.637859999999996 ]
+    },
+    "properties": {
+    "scite1":"\"ETA claims responsibility for deaths of civil guardsmen in France,” Paris AFP (Domestic Service), December 14th, 2007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"“More on Paris Parcel Bomb Kills One” Sky News. December 6, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"\"Villa seriously damaged in daylight bomb attack in Corsica,” Paris AFP (Domestic Service), December 08th, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “One injured in dual attacks in Corsica: officials,” December 20, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “One injured in dual attacks in Corsica: officials,” December 20, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Twin bomb attacks injure two in Corsica,” December 23, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, “Twin bomb attacks injure two in Corsica,” December 23, 2007."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"“Bomb attack in Corsica damages bank,” Agence France Presse, January 12, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.43571,42.676389 ]
+    },
+    "properties": {
+    "scite1":"“Bombs wreck two buildings on French island of Corsica,” Paris LCI Television in French, January 16, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.529963,42.374887 ]
+    },
+    "properties": {
+    "scite1":"“Bank damaged in bomb attack on French island of Corsica,” Paris AFP (Domestic Service) in French, January 17, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.97472,41.621821999999995 ]
+    },
+    "properties": {
+    "scite1":"“Bomb attacks in Corsica target banks, post office,” Paris AFP (Domestic Service) in French, January 21, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.444209,43.604652 ]
+    },
+    "properties": {
+    "scite1":"Associated Press, \"Court Convicts Ten Neo-Nazis in Mosque Burning,\" Lexis Nexis, Associated Press, December 17, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.923433000000001,41.809597 ]
+    },
+    "properties": {
+    "scite1":"Agence France Presse, \"French Second Home Left Fire Damaged by Attack in Corsica,\" World News Connection, Agence France Presse, May 19, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"BBC News, \"Concerns Rise in France After Jewish Teen is Attacked,\" BBC News, June 22, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.521339,43.436384000000004 ]
+    },
+    "properties": {
+    "scite1":"Associated Press, \"French Police Defuse 3 Bombs in Basque Region,\" Lexis Nexis, Associated Press, August 8, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.475817,43.547424 ]
+    },
+    "properties": {
+    "scite1":"Associated Press, \"French Police Defuse 3 Bombs in Basque Region,\" Lexis Nexis, Associated Press, August 8, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.521339,43.436384000000004 ]
+    },
+    "properties": {
+    "scite1":"Associated Press, \"French Police Defuse 3 Bombs in Basque Region,\" Lexis Nexis, Associated Press, August 8, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"Jim Bittermann and Niki Cook, \"Dynamite Found at Paris Department Store,\" Cable News Network, December 16, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4209479999999999,43.637859999999996 ]
+    },
+    "properties": {
+    "scite1":"Associated Press, \"Bomb Hits French Basque Country Real-Estate Agency,\" LexisNexis Academic, Associated Press, December 25, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.514699,43.481402 ]
+    },
+    "properties": {
+    "scite1":"Associated Press, \"Bomb Hits French Basque Country Real-Estate Agency,\" LexisNexis Academic, Associated Press, December 25, 2008."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.444209,43.604652 ]
+    },
+    "properties": {
+    "scite1":"Yahoo News, \"French Police Arrest Three for Synagogue Attack,\" Reuters, http://news.yahoo.com/s/nm/20090119/wl_nm/us_france_synagogue_arrests;_ylt=AjQxqJKTZmbLGBtJLcOWvHl0bBAF (January 19, 2009)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359244,48.929565000000004 ]
+    },
+    "properties": {
+    "scite1":"Expatica, \"55 Anti-Semitic Attacks in France Since Gaza,\" http://www.expatica.com/be/news/local_news/55-anti_Semitic-attacks-in-France-since-Gaza_48606.html (January 13, 2009)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.475907,48.851541999999995 ]
+    },
+    "properties": {
+    "scite1":"International Herald Tribune, \"Man Wearing Jewish Symbol Stabbed Near Paris,\" http://www.iht.com/articles/ap/2009/01/16/europe/EU-Fran ce-Anti-Semitic-Attack.php (January 16, 2009)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699996999999996 ]
+    },
+    "properties": {
+    "scite1":"Associated Press Worldstream, \"Rocket Fire Damages Vehicles in Corsica,\" LexisNexis Academic, Associated Press Worldstream, Janurary, 28, 2009."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.835659,45.764043 ]
+    },
+    "properties": {
+    "scite1":"Sky News, \"Teens Held after France School Shooting,\" http://news.sky.com/skynews/Home/World-News/Nursery-School-Shooting-In-Lyon-France-Eight-Injured-By-Man-With-Air-Gun/Article/200903315245847 (March 20, 2009)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.159269,41.387174 ]
+    },
+    "properties": {
+    "scite1":"Associated Press Worldstream, \"Gunman Fires at Police Station in Southern Corsica,\" LexisNexis Academic, Associated Press Worldstream, April 7, 2009."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.321795,41.559236 ]
+    },
+    "properties": {
+    "scite1":"National Counterterrorism Center, \"One Residence Damaged in IED Attack near Porto Vecchio, Corsica, France,\" Worldwide Incidents Tracking System, November 17, 2009."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.439183,42.492576 ]
+    },
+    "properties": {
+    "scite1":"National Counterterrorism Center, \"Three Buildings Damaged in VBIED Attack by FLNC in Vescovato, Corsica, France,\" Worldwide Incidents Tracking System, January 12, 2010."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403982000000001,42.016853999999995 ]
+    },
+    "properties": {
+    "scite1":"National Counterterrorism Center, \"One Vehicle Destroyed in Improvised Explosive Device Attack in Ghisonaccia, Corsica, France,\" Worldwide Incidents Tracking System, January 14, 2010."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.758887,42.121235999999996 ]
+    },
+    "properties": {
+    "scite1":"Jane’s Intelligence, “FLNC Militants Damage Residences in Corsica IED Attacks,” Terrorism Watch Report, January 19, 2010."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.758887,42.121235999999996 ]
+    },
+    "properties": {
+    "scite1":"Jane’s Intelligence, “FLNC Militants Damage Residences in Corsica IED Attacks,” Terrorism Watch Report, January 19, 2010."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.812652,45.578041 ]
+    },
+    "properties": {
+    "scite1":"Bite Back, \"Fire Devastates Contract Research Organization,\" Bite Back, January 21, 2011, http://directaction.info/news_jan21_11.htm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.916642999999999,41.556824 ]
+    },
+    "properties": {
+    "scite1":"Jane's Intelligence, \"IED Attack Targets Residence in France's Corsica,\" Terrorism Watch Report, Agence France Presse, January 18, 2011."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.742907,41.930607 ]
+    },
+    "properties": {
+    "scite1":"Mu Xuequan, \"Explosions Hit Bars in France,\" Xinhua News Agency, January 19, 2011, http://news.xinhuanet.com/english2010/world/2011-01/19/c_13696712.htm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.516978,49.00363 ]
+    },
+    "properties": {
+    "scite1":"Yan, \"Paris Roissy Airport Briefly Evacuated on Suspected Explosive,\" Xinhua News Agency, January 24, 2011, http://news.xinhuanet.com/english2010/world/2011-01/25/c_13705246.htm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.501176,42.36999 ]
+    },
+    "properties": {
+    "scite1":"Corse Matin, \"Bomb Attack in Moriani Beach,\" http://www.corsematin.com/article/faits-divers/un-attentat-a-lexplosif-a-moriani-plage (February 22, 2011)."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.303704,42.681846 ]
+    },
+    "properties": {
+    "scite1":"Jane’s Intelligence, “IED Targets Private Residence in France's Corsica,” Terrorism Watch Report, Agence France Presse, February 24, 2011."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.062783,46.037763 ]
+    },
+    "properties": {
+    "scite1":"Reuters, \"French Police Nab ETA Suspects after Shootouts,\" Reuters, April 10, 2011, http://www.trust.org/alertnet/news/french-police-nab-eta-suspects-after-shootouts/."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"Today's Zaman, \"PKK Supporters Attack Zaman Office in Paris,\" Today's Zaman, October 07, 2011, http://www.todayszaman.com/news-259148-pkk-supporters-attack-zaman-office-in-paris.html."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856644 ]
+    },
+    "properties": {
+    "scite1":"\"UPDATE 1 - Parcel bomb sent to Greek embassy in Paris,\" Reuters, December 12, 2011."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.444209,43.604652 ]
+    },
+    "properties": {
+    "scite1":"\"French investigators launch probe over leaked gunman tapes,\" Agence France Presse, July 11, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.35295,44.016079 ]
+    },
+    "properties": {
+    "scite1":"\"French investigators launch probe over leaked gunman tapes,\" Agence France Presse, July 11, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.444209,43.604652 ]
+    },
+    "properties": {
+    "scite1":"\"French investigators launch probe over leaked gunman tapes,\" Agence France Presse, July 11, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Indonesia blames French-based group for embassy blast,\" Agence France Presse -- English, March 29, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican nationalists blow up Parisian banker's   villa,\" Deutsche Presse-Agentur, July 2, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.890308,45.771861 ]
+    },
+    "properties": {
+    "scite1":"\"Jewish youths   attacked,\" The Times (London), June 4, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.444209,43.604652 ]
+    },
+    "properties": {
+    "scite1":"\"Toulouse bank hostages freed in raid,\" The Guardian, June 20, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.222617,41.441103000000005 ]
+    },
+    "properties": {
+    "scite1":"\"Corsican bombers target holiday villas;  Car-hire price hike, Paris by coach and a Maldives Taliban warning,\" The Sunday Times (London), July 8, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"France: Blasts Rock 7 Corsican Supermarkets, No Victims,\" AFP (North European Service), September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738628,41.919222 ]
+    },
+    "properties": {
+    "scite1":"\"Suspected nationalists attempt to blow up Corsican supermarkets,\" Deutsche Presse-Agentur, September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699995 ]
+    },
+    "properties": {
+    "scite1":"\"Suspected nationalists attempt to blow up Corsican supermarkets,\" dpa International Service in English, September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.54235,42.260458 ]
+    },
+    "properties": {
+    "scite1":"\"Suspected nationalists attempt to blow up Corsican supermarkets,\" dpa International Service in English, September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.358021,42.631555999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Suspected nationalists attempt to blow up Corsican supermarkets,\" dpa International Service in English, September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Suspected nationalists attempt to blow up Corsican supermarkets,\" dpa International Service in English, September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Suspected nationalists attempt to blow up Corsican supermarkets,\" dpa International Service in English, September 10, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.378493,48.997347 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - French terror cell members sentenced over Jewish grocery attack,\" AFP (North European Service), June 23, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.737554,41.918890999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French PM vows to tackle 'spiral of crime' in Corsica,\" Agence France Presse, December 9, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.244343,43.309042 ]
+    },
+    "properties": {
+    "scite1":"\"House burned in the Basque Country: the claim is part of Cambo,\" Sud Ouest, December 13, 2012."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4870219999999998,43.439252 ]
+    },
+    "properties": {
+    "scite1":"\"A slogan for voluntary fires,\" Mediabask, May 31, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.045029,43.329547999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Var bomb planted by suspected FLNP activists,\" The Rivieria Times, May 6, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.278312,41.59137 ]
+    },
+    "properties": {
+    "scite1":"\"One dead, two injured in fresh attacks on Corsica,\" dpa International Service in English, February 12, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.448772,43.340882 ]
+    },
+    "properties": {
+    "scite1":"\"A house burned and tagged \"The Basque Country is not for sale\",\" Sud Ouest, May 15, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.464755,43.537163 ]
+    },
+    "properties": {
+    "scite1":"\"Var bomb planted by suspected FLNP activists,\" The Rivieria Times, May 6, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.238342,48.883709 ]
+    },
+    "properties": {
+    "scite1":"\"Attack on French soldier had Islamist motivation: prosecutor,\" Reuters, May 29, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.550558,43.356336999999996 ]
+    },
+    "properties": {
+    "scite1":"\"A slogan for voluntary fires,\" Mediabask, May 31, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3438380000000003,43.209261 ]
+    },
+    "properties": {
+    "scite1":"\"French 'wine militants' blamed for bomb blast,\" The Local France, July 18, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738629,41.919222999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Ajaccio criminal explosion at the chapel of Jehovah's Witnesses,\" France 3 TV, August 1, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.25377,43.392697999999996 ]
+    },
+    "properties": {
+    "scite1":"\"A house destroyed by a criminal fire,\" Sud Ouest, November 14, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - France media attacker jailed for 25 years,\" AFP (North European Service), November 25, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4069040000000002,43.330475 ]
+    },
+    "properties": {
+    "scite1":"\"Fire in Itxassou (64): the privileged criminal track,\" Sud Ouest, November 17, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - France media attacker jailed for 25 years,\" AFP (North European Service), November 25, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.73863,41.919224 ]
+    },
+    "properties": {
+    "scite1":"\"Corsica: a dozen arrests after attacks against policemen,\" Le Figaro, June 10, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsica: a dozen arrests after attacks against policemen,\" Le Figaro, June 10, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.702529,42.116939 ]
+    },
+    "properties": {
+    "scite1":"\"Attack against a residence in southern Corsica,\" France 3 TV, December 19, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.844915,45.746887 ]
+    },
+    "properties": {
+    "scite1":"\"Report: French Jewish Defense League stages attacks on 'anti-Semites',\" Haaretz.com, December 25, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.890171,45.771944 ]
+    },
+    "properties": {
+    "scite1":"\"Report: French Jewish Defense League stages attacks on 'anti-Semites',\" Haaretz.com, December 25, 2013."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.011459,46.266052 ]
+    },
+    "properties": {
+    "scite1":"\"Fire at market Lezay cattle (79): the privileged criminal track,\" La Nouvelle Republique, January 19, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.447689,43.529872999999995 ]
+    },
+    "properties": {
+    "scite1":"\"French tax office targeted in small bombing,\" Associated Press International, January 22, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.606223,43.799853999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Wine terrorists attack telephone exchange,\" Drinks Business, March 17, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.606223,43.799853999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Wine terrorists attack telephone exchange,\" Drinks Business, March 17, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"BEATEN OVER FAITH? Victim recounts savage anti-Semitic attack in Paris,\" Bayou Buzz, March 27, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699995 ]
+    },
+    "properties": {
+    "scite1":"\"Corsica strafing gendarmerie Bastia in full ministerial visit,\" France 3 TV, June 13, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.746399,48.364325 ]
+    },
+    "properties": {
+    "scite1":"\"Molotov cocktail at police stations. Five people arrested,\" Le Telegramme, December 16, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8409709999999997,48.280398 ]
+    },
+    "properties": {
+    "scite1":"\"Molotov cocktail at police stations. Five people arrested,\" Le Telegramme, December 16, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.159236,41.388039 ]
+    },
+    "properties": {
+    "scite1":"\"Bonifacio: a being renovated villa targeted by an attack,\" France 3 TV, June 29, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.595773,42.136309000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Blast at Corsican Club Med 'linked to separatists',\" France24, September 15, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.979338,43.719923 ]
+    },
+    "properties": {
+    "scite1":"\"Gourdon arson destroyed 11 vehicles in Valette foie gras,\" France 3 TV, November 11, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.149094,42.309765999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Corsica: an attack made light damage in Corte,\" France 3 TV, December 15, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.663611,47.352401 ]
+    },
+    "properties": {
+    "scite1":"\"France probes possible lone wolf 'radical Islamic' attack,\" Agence France Presse -- English, December 21, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.04148,47.322047 ]
+    },
+    "properties": {
+    "scite1":"\"France Dijon: Driver targets city pedestrians,\" BBC, December 22, 2014."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Charlie Hebdo attack: Three days of terror,\" BBC, January 14, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.287296,48.789746 ]
+    },
+    "properties": {
+    "scite1":"\"Charlie Hebdo attack: Three days of terror,\" BBC, January 14, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.04942,43.019169 ]
+    },
+    "properties": {
+    "scite1":"\"Mosques Targeted in Wake of Paris Massacre: Reports,\" NBCNews.com, January 8, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3164919999999998,48.815309 ]
+    },
+    "properties": {
+    "scite1":"\"Charlie Hebdo attack: Three days of terror,\" BBC, January 14, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.203153,47.969057 ]
+    },
+    "properties": {
+    "scite1":"\"Pensioner jailed for attacking French mosque,\" France24, February 26, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.72444,45.989461 ]
+    },
+    "properties": {
+    "scite1":"\"Mosques Targeted in Wake of Paris Massacre: Reports,\" NBCNews.com, January 8, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.908998,45.692341 ]
+    },
+    "properties": {
+    "scite1":"\"Mosques being targeted, the Muslims of France worried,\" LeMonde.fr, January 9, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.211335,43.949268 ]
+    },
+    "properties": {
+    "scite1":"\"Mosques being targeted, the Muslims of France worried,\" LeMonde.fr, January 9, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.699313,49.062076 ]
+    },
+    "properties": {
+    "scite1":"\"Charlie Hebdo attack: Three days of terror,\" BBC, January 14, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Charlie Hebdo attack: Three days of terror,\" BBC, January 14, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.065343,47.792551 ]
+    },
+    "properties": {
+    "scite1":"\"Mosques being targeted, the Muslims of France worried,\" LeMonde.fr, January 9, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.3234199999999996,49.376636 ]
+    },
+    "properties": {
+    "scite1":"\"Shots in the night on the mosque in Soissons,\" RTL, January 10, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.404009,42.017022999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Wave of Islamophobia in France: at least 116 anti-Muslim acts recorded,\" iTELE, January 10, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.340375,46.580224 ]
+    },
+    "properties": {
+    "scite1":"\"France witnesses spike in anti-Muslim attacks after Charlie Hebdo shootings,\" DNA India, January 14, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.270508,43.697264000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Minister: Knife attack suspect known to French intelligence,\" CNN Wire, February 4, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.94722,50.420096 ]
+    },
+    "properties": {
+    "scite1":"\"Arson attack targets far right Town Hall in France,\" The Local France, March 25, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359854,48.792494 ]
+    },
+    "properties": {
+    "scite1":"\"Attacks in France since Charlie Hebdo slayings,\" Agence France-Presse Top News (English), t, January 7, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.675448,43.386784000000006 ]
+    },
+    "properties": {
+    "scite1":"\"Attempted arson in Saint-Jean-de-Luz: the head of the shocked real estate agency,\" Sud Ouest, May 4, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7488259999999998,42.485952000000005 ]
+    },
+    "properties": {
+    "scite1":"\"Ceret (P.-O.): the car of the wife of Mayor destroyed by fire,\" L'Independant, May 28, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.124706,45.641734 ]
+    },
+    "properties": {
+    "scite1":"\"French attack suspect took 'selfie' with slain victim,\" Al Jazeera, June 28, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1673089999999995,43.475773 ]
+    },
+    "properties": {
+    "scite1":"\"France explosions: Device found near Berre-L'Etang plant,\" BBC Online, July 15, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1673089999999995,43.475773 ]
+    },
+    "properties": {
+    "scite1":"\"Military beheading foiled: four held,\" NEWS.com.au, July 15, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7767060000000003,50.290575 ]
+    },
+    "properties": {
+    "scite1":"\"Train attack suspect confesses after revelations in academic journal,\" CNN, December 19, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.587621,43.642996999999994 ]
+    },
+    "properties": {
+    "scite1":"\"French Mosque Fire Is Arson, Hollande Says As Anti-Muslim Crimes On The Rise In France,\" International Business Times, August 25, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.390103,43.317192999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Marseille: a man assaults a rabbi,\" Le Figaro, October 24, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359244,48.929564 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359244,48.929564 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359244,48.929564 ]
+    },
+    "properties": {
+    "scite1":"\"For Survivors of Paris Attacks, Mental Scars May Outlast Wounds,\" The New York Times, November 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.390103,43.317192999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Fresh Islamophobic and anti-Semitic attacks in France,\" Middle East Eye, November 19, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.97071,42.600359999999995 ]
+    },
+    "properties": {
+    "scite1":"\"Elne: a Muslim prayer room vandalized (VIDEO),\" L'Independant, November 26, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.403981,42.016837 ]
+    },
+    "properties": {
+    "scite1":"\"Ghisonaccia: a halal butcher covered by a gun shot,\" corsematin.com, December 3, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738397,41.919182 ]
+    },
+    "properties": {
+    "scite1":"\"France asserts authority over Corsica after anti-Muslim violence,\" Politico.eu, December 30, 2015."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.89236,44.933479999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Lyon - Man charged after car attack on French soldiers,\" AFP (North European Service), January 3, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Armed Man in Fake Suicide Vest Is Killed by Paris Police,\" The New York Times, January 8, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.701303,48.405407000000004 ]
+    },
+    "properties": {
+    "scite1":"\"French tensions: Slashing, church fires, profaned mosque,\" FOXNews.com, January 11, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7951740000000003,48.377975 ]
+    },
+    "properties": {
+    "scite1":"\"French tensions: Slashing, church fires, profaned mosque,\" FOXNews.com, January 11, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.390103,43.317192999999996 ]
+    },
+    "properties": {
+    "scite1":"\"French teen who attacked Jewish teacher with machete charged with terror ties,\" Haaretz, January 13, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.901617,41.673761 ]
+    },
+    "properties": {
+    "scite1":"\"Muslim Butcher, Restaurant Attacked by Gunfire in France,\" Latin American Herald Tribune, February 4, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.901914,41.674685 ]
+    },
+    "properties": {
+    "scite1":"\"Muslim Butcher, Restaurant Attacked by Gunfire in France,\" Latin American Herald Tribune, February 4, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.734752,48.585075 ]
+    },
+    "properties": {
+    "scite1":"\"French Soldier Lightly Wounded in Train Station Attack by Arabic-speaker,\" Haaretz, April 24, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.738635,41.919229 ]
+    },
+    "properties": {
+    "scite1":"\"Police suspect arson after Muslim prayer hall burns in Corsica,\" Deutsche Welle, May 1, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0919689999999997,43.758824 ]
+    },
+    "properties": {
+    "scite1":"\"French soldier stabbed by two men in 'revenge attack over Syria',\" International Business Times UK, May 27, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.684609,48.969002 ]
+    },
+    "properties": {
+    "scite1":"\"French jihadist police killer 'obeyed Islamic State call',\" BBC, June 14, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Congo describes embassy attack in Paris as “terrorism”,\" Agence Africaine de Presse, June 22, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9689400000000004,43.287706 ]
+    },
+    "properties": {
+    "scite1":"\"Wine wars: Fury and arson in the vineyards of southern France,\" Telegraph, July 23, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.255833,43.693611 ]
+    },
+    "properties": {
+    "scite1":"\"Attack on Nice: Who was Mohamed Lahouaiej-Bouhlel?,\" BBC, August 19, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1198360000000003,43.358381 ]
+    },
+    "properties": {
+    "scite1":"\"French wine militants set fire to winery offices,\" Wine Business Online, July 21, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.106722,49.382753 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Church attacker threatened France in new video,\" AFP (North European Service), July 29, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.33071,43.461574 ]
+    },
+    "properties": {
+    "scite1":"\"Fears of anti-Muslim backlash as police investigate possible arson attack on French mosque,\" Telegraph, July 27, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.752111,48.573405 ]
+    },
+    "properties": {
+    "scite1":"\"Jewish man stabbed on street in French city of Strasbourg,\" BBC, August 19, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.448895,43.604935 ]
+    },
+    "properties": {
+    "scite1":"\"French police officer wounded in Toulouse knife attack,\" Jerusalem Post, August 30, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Woman charged over failed jihadist Paris attack,\" AFP (North European Service), September 10, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.902552,50.971413 ]
+    },
+    "properties": {
+    "scite1":"\"BACKLASH: Anarchists accused of setting fires to halt camp's breakup,\" FOXNews.com, October 27, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.54831,47.231635 ]
+    },
+    "properties": {
+    "scite1":"\"Turkish consulates in Nantes and Hannover attacked,\" Armenpress, November 7, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"PKK supporters attack Turkish protesters in Paris,\" Anadolu Ajansi, November 20, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.467584,43.625896000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Mystery remains over makeshift explosive found at French church,\" The Local France, December 15, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2391400000000004,48.836582 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Migrant jumps to death from Paris shelter after arson attack,\" AFP (North European Service), December 16, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.4026199999999998,49.045987 ]
+    },
+    "properties": {
+    "scite1":"\"FRANCE - Arson attack on Muslim prayer hall in eastern France,\" RFI (English), December 18, 2016."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3845529999999995,45.441025 ]
+    },
+    "properties": {
+    "scite1":"\"A Christmas crib deliberately set on fire in the cathedral of Saint-Etienne,\" Sud Ouest, January 7, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Louvre suspect 'confirms identity',\" BBC, February 7, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.000771,43.17857 ]
+    },
+    "properties": {
+    "scite1":"\"Narbonne: the wine action committee targets a Leader Price,\" France 3 TV, March 15, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Athens - Eight 'suspect' packages found at Athens sorting centre: police,\" AFP (North European Service), March 20, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.364398,48.728162 ]
+    },
+    "properties": {
+    "scite1":"\"Shooting at France’s Orly Airport Prompts Evacuation and Halt to Flights,\" New York Times, March 18, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7212309999999995,45.182352 ]
+    },
+    "properties": {
+    "scite1":"\"Anarchist movement multiplies acts of vandalism in Rhone-Alpes,\" Sud Ouest, July 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7212309999999995,45.182352 ]
+    },
+    "properties": {
+    "scite1":"\"Anarchist movement multiplies acts of vandalism in Rhone-Alpes,\" Sud Ouest, July 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.421194,48.796285 ]
+    },
+    "properties": {
+    "scite1":"\"Alfortville: arson attacks at Armenian Evangelical Church,\" Le Parisien, April 2, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.447317,42.699995 ]
+    },
+    "properties": {
+    "scite1":"\"Small bomb explodes, damages EDF offices in Corsica; Small bomb explodes, damages EDF offices in Corsica,\" The Canadian Press, April 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Arson bid hits campaign HQ of France's Le Pen,\" AFP (North European Service), April 13, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.150495,42.307654 ]
+    },
+    "properties": {
+    "scite1":"\"A new clandestine group claims attacks in Corsica,\" France 3 TV, June 23, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris Champs Elysees attack gunman named as Karim Cheurfi,\" BBC, April 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.150712,42.306327 ]
+    },
+    "properties": {
+    "scite1":"\"A new clandestine group claims attacks in Corsica,\" France 3 TV, June 23, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.438257,42.631102 ]
+    },
+    "properties": {
+    "scite1":"\"A new clandestine group claims attacks in Corsica,\" France 3 TV, June 23, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.414214999999999,42.657985 ]
+    },
+    "properties": {
+    "scite1":"\"A new clandestine group claims attacks in Corsica,\" France 3 TV, June 23, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.24526,43.308184000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Underground Basque group claims arson attack,\" Radio France Internationale - Anglais, June 9, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7212309999999995,45.182352 ]
+    },
+    "properties": {
+    "scite1":"\"Anarchist movement multiplies acts of vandalism in Rhone-Alpes,\" Sud Ouest, July 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Notre Dame attacker a self-radicalised novice: prosecutor,\" AFP (North European Service), June 10, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.024278,44.728790000000004 ]
+    },
+    "properties": {
+    "scite1":"\"Anarchist movement multiplies acts of vandalism in Rhone-Alpes,\" Sud Ouest, July 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.091283,44.691275 ]
+    },
+    "properties": {
+    "scite1":"\"Anarchist movement multiplies acts of vandalism in Rhone-Alpes,\" Sud Ouest, July 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Champs-Elysees attack car 'had guns and gas' - Paris police,\" BBC, June 19, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.454183,48.783605 ]
+    },
+    "properties": {
+    "scite1":"\"Paris mosque: Driver arrested after attempting to ram crowd,\" CNN.com, June 30, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.481607,44.642195 ]
+    },
+    "properties": {
+    "scite1":"\"Anarchist movement multiplies acts of vandalism in Rhone-Alpes,\" Sud Ouest, July 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.390103,43.317192999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Small explosion outside Marseille office of far-right French party,\" Jerusalem Post, July 30, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Terror probe opened over Eiffel Tower attacker,\" Deutsche Welle, August 8, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.286883,48.895072 ]
+    },
+    "properties": {
+    "scite1":"\"Paris police wait to interview suspect after car rammed soldiers; Hamou Bachir Benlatreche in serious condition after he was shot during his arrest following incident in Levallois-Perret,\" The Guardian (London), August 10, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4313200000000001,43.62218 ]
+    },
+    "properties": {
+    "scite1":"\"The intriguing racist \"commando\" raging in Burgundy,\" Le Parisien, November 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.070833,47.3125 ]
+    },
+    "properties": {
+    "scite1":"\"The intriguing racist \"commando\" raging in Burgundy,\" Le Parisien, November 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Knife-wielding man attacks Paris soldier, no injuries: police,\" AFP (North European Service), September 15, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.850999,46.781571 ]
+    },
+    "properties": {
+    "scite1":"\"Two Women Injured by Hammer-Wielding Attacker in Eastern France,\" New York Times, September 15, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8528,46.7806 ]
+    },
+    "properties": {
+    "scite1":"\"Xinhua: Norway's Mass Murderer Breivik Inspires French Extremists,\" Xinhua, November 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2625,45.8353 ]
+    },
+    "properties": {
+    "scite1":"\"France: Arson Attacks Suspected at Gendarmerie Barracks in Grenoble, Limoges,\" Le Figaro (Electronic Edition), September 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.7212309999999995,45.182352 ]
+    },
+    "properties": {
+    "scite1":"\"France: Arson Attacks Suspected at Gendarmerie Barracks in Grenoble, Limoges,\" Le Figaro (Electronic Edition), September 21, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.0660680000000005,47.312907 ]
+    },
+    "properties": {
+    "scite1":"\"Xinhua: Norway's Mass Murderer Breivik Inspires French Extremists,\" Xinhua, November 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.061474,47.311731 ]
+    },
+    "properties": {
+    "scite1":"\"Xinhua: Norway's Mass Murderer Breivik Inspires French Extremists,\" Xinhua, November 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.061474,47.311731 ]
+    },
+    "properties": {
+    "scite1":"\"Xinhua: Norway's Mass Murderer Breivik Inspires French Extremists,\" Xinhua, November 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - 3 charged over makeshift gas canister bomb in Paris,\" AFP (North European Service), October 7, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.390103,43.317192999999996 ]
+    },
+    "properties": {
+    "scite1":"\"Marseille: Fatal Knife Attack at Train Station, Assailant Cried \"Allahu Akbar\", Slit Women's Throats,\" BBC, October 1, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Revision: Paris - French cement-maker targeted in Paris security scare,\" AFP (North European Service), October 5, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.79478,45.214046999999994 ]
+    },
+    "properties": {
+    "scite1":"\"Cars Torched in Attack on French Police Housing Complex,\" New York Times, October 26, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.454183,48.783605 ]
+    },
+    "properties": {
+    "scite1":"\"Dog saves French Jewish family from 'antisemitic' suspected arson in their home,\" Jerusalem Post, November 6, 2017."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.454183,48.783605 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - French kosher store burns down on attack anniversary,\" AFP (North European Service), January 9, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3438380000000003,43.209261 ]
+    },
+    "properties": {
+    "scite1":"\"Hostage-taker in southern France fatally shot by security forces after killing three,\" France24, March 23, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3438380000000003,43.209261 ]
+    },
+    "properties": {
+    "scite1":"\"Who is Salah Abdeslam? ISIS gunman in France demanded release of 'Paris attacker',\" Daily Star Online, March 23, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.459809,43.205328 ]
+    },
+    "properties": {
+    "scite1":"\"French officer who swapped places with a hostage in supermarket attack dies,\" CNN Wire, March 24, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Holocaust survivor's body found burnt, stabbed in Paris apartment,\" Jerusalem Post, March 25, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.682676,45.090579999999996 ]
+    },
+    "properties": {
+    "scite1":"\"France soldiers attacked: Driver tries to ram troops,\" BBC, March 29, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris attack: Knifeman kills one before being shot by police,\" BBC, May 13, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.770154,48.462391 ]
+    },
+    "properties": {
+    "scite1":"\"France: Islamic Bulletin for 31 May-6 June 2018,\" Summary, May 31, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34233,48.856642 ]
+    },
+    "properties": {
+    "scite1":"\"Paris - Paris hostage-taker moved to psychiatric hospital,\" AFP (North European Service), June 13, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.859275,43.109219 ]
+    },
+    "properties": {
+    "scite1":"\"Revision: Marseille - Woman yelling 'Allahu akbar' slashes two with blade in France,\" AFP (North European Service), June 17, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9056380000000002,47.904454 ]
+    },
+    "properties": {
+    "scite1":"\"France: Islamic Bulletin for 26 July-1 August 2018,\" Summary, July 26, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.702904,45.99778 ]
+    },
+    "properties": {
+    "scite1":"\"'Radical vegans' strike fear into French butchers,\" The Nation Pakistan, September 28, 2018."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.748939999999999,48.582586 ]
+    },
+    "properties": {
+    "scite1":"\"Strasbourg Christmas market attacker Chekatt shot dead,\" BBC, December 13, 2018."
+    }
+  }
+]
+}
