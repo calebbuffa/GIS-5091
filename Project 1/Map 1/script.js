@@ -24,7 +24,7 @@ $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%20
               }
             }
                                          );
-            terrorism.addTo(map); });  
+            terrorism.addTo(map); }); 
 
 var nstyle = {
     radius: 1,
