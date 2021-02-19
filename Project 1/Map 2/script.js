@@ -13,15 +13,8 @@ var tstyle = {
   "fillOpacity": 1
 };
 
-var terrorism = 'https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geo.json'
-
-fetch(
-  terrorism
-).then(
-  res => res.json()
-).then(
-  data => L.geoJSON(data).addTo(map)
-)
+var geojsonLayer = new L.GeoJSON.AJAX("terrorism.geojson");       
+geojsonLayer.addTo(map);
 
 $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson", function(response) {
             console.log("response", response);
