@@ -13,6 +13,18 @@ var tstyle = {
   "fillOpacity": 1
 };
 
+var terrorism = 'https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson'
+
+// create a leaflet map (you must have loaded leaflet first)
+
+fetch(
+  terrorism
+).then(
+  res => res.geojson()
+).then(
+  data => L.geoJSON(data).addTo(map)
+)
+
 $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson", function(response) {
             console.log("response", response);
             var terrorism = new L.GeoJSON(response, {
