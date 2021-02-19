@@ -13,14 +13,12 @@ var tstyle = {
   "fillOpacity": 1
 };
 
-var terrorism = 'https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson'
-
-// create a leaflet map (you must have loaded leaflet first)
+var terrorism = 'https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geo.json'
 
 fetch(
   terrorism
 ).then(
-  res => res.geojson()
+  res => res.json()
 ).then(
   data => L.geoJSON(data).addTo(map)
 )
