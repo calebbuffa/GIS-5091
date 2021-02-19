@@ -1,8 +1,5 @@
 <html>
   <head>
-
-    <title>Map 1</title>
-
     <style>
       #map { position: absolute; top:0; bottom:0; right:0; left:0; }
     </style>
@@ -13,10 +10,6 @@
 
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-   crossorigin=""></script>
-
-<script src="https://unpkg.com/esri-leaflet@2.5.3/dist/esri-leaflet.js"
-   integrity="sha512-K0Vddb4QdnVOAuPJBHkgrua+/A9Moyv8AQEWi0xndQ+fqbRfAFd47z4A9u1AW/spLO0gEaiE1z98PK1gl5mC5Q=="
    crossorigin=""></script>
 
 <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
@@ -81,11 +74,11 @@ var rstyle = {
 
 $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/FRA_roads.geojson", function(response) {
             console.log("response", response);
-            var roads = new L.GeoJSON(response, {
+            var road = new L.GeoJSON(response, {
               style: rstyle
             }
                                          );
-            roads.addTo(map); }); 
+            road.addTo(map); }); 
     </script>
     
   </body>
