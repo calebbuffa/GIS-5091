@@ -6,5 +6,15 @@ var Esri_WorldGrayCanvas = L.tileLayer('https://server.arcgisonline.com/ArcGIS/r
 }).addTo(map);
 
 
-var geojsonLayer = new L.GeoJSON.AJAX("terrorism.geojson");       
-geojsonLayer.addTo(map);
+var district_boundary = new L.geoJson();
+district_boundary.addTo(map);
+
+$.ajax({
+dataType: "json",
+url: "https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/FRA_roads.geojson",
+success: function(data) {
+    $(data.features).each(function(key, data) {
+        district_boundary.addData(data);
+    });
+}
+}).error(function() {});
