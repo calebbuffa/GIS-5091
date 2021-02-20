@@ -2,6 +2,39 @@
   <head>
     <style>
       #map { position: absolute; top:0; bottom:0; right:0; left:0; }
+      
+.legend {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: rgba(0, 0, 0, 0.8);
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.legend h4 {
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: #FFFFFF;
+}
+
+.legend span {
+  position: relative;
+  bottom: 3px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin: 0 8px 0 0;
+  opacity: 0.7;
+}
+
+.legend i.icon {
+  background-size: 18px;
+  background-color: rgba(255, 255, 255, 1);
+}
+      
     </style>
     
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
@@ -36,12 +69,16 @@ var tstyle = {
   "fillOpacity": 1
 };
 
+
+
 $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/terrorism.geojson", function(response) {
             console.log("response", response);
             var terrorism = new L.GeoJSON(response, {
               pointToLayer: function (feature, latlng) {
                 return L.circleMarker(latlng, tstyle);
-              }
+              }, onEachFeature: function (f, l) {
+   l.bindPopup(JSON.stringify(f.properties,null,' ').replace(/[\{\}"]/g,''));
+ }
             }
                                          );
             terrorism.addTo(map); }); 
@@ -79,6 +116,32 @@ $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%20
             }
                                          );
             road.addTo(map); }); 
+
+function getColor(s) {
+      if (s === 'Terrorist Attack')
+        return "#ff0000";
+      else if (s === 'Nighttime Lights')
+        return "#4dff00";
+      else
+        return "#000000";
+    };
+ 
+var legend = L.control({ position: "topright" });
+
+legend.onAdd = function(map) {
+  var div = L.DomUtil.create("div", "legend");
+  div.innerHTML += "<h4>Legend</h4>";
+  div.innerHTML += '<i style="background: #ff0000"></i><span>Terrorist Attack</span><br>';
+  div.innerHTML += '<i style="background: #4dff00"></i><span>Nighttime Lights</span><br>';
+  div.innerHTML += '<i class="icon" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAElBMVEX///8AAADc3NzV1dX39/fZ2dlQS2zLAAAAfklEQVR4nO3awRGAIADAMBXYf2Un4KtXLtmg/14XAAAAAAAAAAAAAAAAAAAAAAAAAAD/m+s5w5qbwnGfYijMU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYtys8/8UAAAAAAAAAAAAAAAAAAAAAAAAAAOBLL6dOISwyj2o4AAAAAElFTkSuQmCC);"></i><span>Major Roadway</span><br>';
+  
+  
+
+  return div;
+};
+
+legend.addTo(map);
+      
     </script>
     
   </body>
