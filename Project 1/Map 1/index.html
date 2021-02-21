@@ -81,7 +81,9 @@ $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%20
  }
             }
                                          );
-            terrorism.addTo(map); }); 
+            terrorism.addTo(map).on('click', function(){
+terrorism.bringToFront();
+}); }); 
 
 var nstyle = {
     radius: 1,
@@ -98,7 +100,9 @@ $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%20
               style: nstyle
             }
                                          );
-            nlight.addTo(map); }); 
+            nlight.addTo(map).on('click', function(){
+nlight.bringToFront();
+}); }); 
 
 var rstyle = {
     radius: .5,
