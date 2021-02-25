@@ -1,6 +1,14 @@
 <html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+  <title>3D Map</title>
+  
+  <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/css/main.css">
+  <script src="https://js.arcgis.com/4.18/"></script>
+  </head>
   <style>
-    html,
+    html, 
 body,
 #viewDiv {
   padding: 0;
@@ -10,20 +18,14 @@ body,
 }
   </style>
 
-<meta charset="utf-8">
-<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
-  <title>Intro to SceneView - Create a 3D map - 4.18</title>
-  
-  <link rel="stylesheet" href="https://js.arcgis.com/4.18/esri/css/main.css">
-  <script src="https://js.arcgis.com/4.18/"></script>
-
-
 <body>
   <div id="viewDiv"></div>
-  <button id="stl" class="off">Bunker Hill Monument</button>
-  <button id="bei" class="off">Samuel Adams Statue</button>
- 
-  <script>
+  <button id="h" class="off">Harvard Medical Campus</button>
+  <button id="pr" class="off">Paul Revere House</button>
+  <button id="dt" class="off">Downtown</button>
+  
+<script>
+  
     require([
       "esri/WebScene",
       "esri/views/SceneView",
@@ -38,31 +40,49 @@ body,
         }
       });
       
+           var home = new Camera({
+        position: [
+           -71.06190829959095,
+          42.35785443365573, 
+          5000// elevation in meters
+        ]
+      })
+      
       var camera = new Camera({
         position: [
-           -71.0608,
-          42.3764,
-          2500// elevation in meters
+           -71.10191918101172,
+            42.338921791209714,   
+          400// elevation in meters
         ],
-        tilt:0,
-        heading: 0
+        tilt:40,
+        heading: 210
       })
       
       var camera2 = new Camera({
         position: {
-          x: -71.0568,
-          y: 42.36,
-          z: 5000000
+          x: -71.05368226026577,
+          y: 42.36377679196746,  
+          z: 500
         },
         tilt: 0,
         heading: 0
+      })
+      
+      var camera3 = new Camera({
+        position: {
+          x: -70.97414153631752,
+          y: 42.381957578015346,     
+          z: 2000
+        },
+        tilt: 75,
+        heading: 255
       });
-
+      
       var view = new SceneView({
         container: "viewDiv",
         map: scene,
         viewingMode:"global",
-        camera: camera,
+        camera: home,
         environment: {
             lighting: {
               date: new Date(),
@@ -81,22 +101,28 @@ body,
       // Add the home button to the top left corner of the view
     view.ui.add(homeBtn, "top-left");
     
-    [bhm, sam_ad].forEach(function(button) {
+    [h, pr, dt].forEach(function(button) {
       button.style.display = 'flex';
       view.ui.add(button, 'top-right');
     });
     
-    sam_ad.addEventListener('click', function() {
+    pr.addEventListener('click', function() {
       // reuse the default camera position already established in the homeBtn
       view.goTo({
         target:camera2
       });
     });
     
-    bhm.addEventListener('click', function() {
+    h.addEventListener('click', function() {
       // reuse the default camera position already established in the homeBtn
       view.goTo({
         target:camera
+      });
+    });
+      dt.addEventListener('click', function() {
+      // reuse the default camera position already established in the homeBtn
+      view.goTo({
+        target:camera3
       });
     });
 
