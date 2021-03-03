@@ -106,23 +106,6 @@ $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%20
 nlight.bringToFront();
 }); }); 
 
-// var rstyle = {
-//     radius: .5,
-//     fillColor: "#000000",
-//     color: "#000000",
-//     weight: .5,
-//     opacity: .3,
-//     fillOpacity: .3
-// };
-
-// $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/FRA_roads.geojson", function(response) {
-//             console.log("response", response);
-//             var road = new L.GeoJSON(response, {
-//               style: rstyle
-//             }
-//                                          );
-//             road.addTo(map); }); 
-
 function getColor(s) {
       if (s === 'Terrorist Attack')
         return "#ff0000";
@@ -139,10 +122,7 @@ legend.onAdd = function(map) {
   div.innerHTML += "<h4>Legend</h4>";
   div.innerHTML += '<i style="background: #ff0000"></i><span>Terrorist Attack</span><br>';
   div.innerHTML += '<i style="background: #4dff00"></i><span>Nighttime Lights</span><br>';
-//   div.innerHTML += '<i class="icon" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAElBMVEX///8AAADc3NzV1dX39/fZ2dlQS2zLAAAAfklEQVR4nO3awRGAIADAMBXYf2Un4KtXLtmg/14XAAAAAAAAAAAAAAAAAAAAAAAAAAD/m+s5w5qbwnGfYijMU9insE9hn8I+hX0K+xT2KexT2KewT2Gfwj6FfQr7FPYp7FPYtys8/8UAAAAAAAAAAAAAAAAAAAAAAAAAAOBLL6dOISwyj2o4AAAAAElFTkSuQmCC);"></i><span>Major Roadway</span><br>';
   
-  
-
   return div;
 };
 
