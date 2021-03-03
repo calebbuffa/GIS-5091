@@ -96,7 +96,7 @@ var nstyle = {
     fillOpacity: .1
 };
 
-$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/euro_night_light.geojson", function(response) {
+$.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%201/euro_nighttime_lights.geojson", function(response) {
             console.log("response", response);
             var nlight = new L.GeoJSON(response, {
               style: nstyle
