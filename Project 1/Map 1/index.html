@@ -79,7 +79,7 @@ $.getJSON("https://raw.githubusercontent.com/calebbuffa/GIS-5091/main/Project%20
               pointToLayer: function (feature, latlng) {
                 return L.circleMarker(latlng, tstyle);
               }, onEachFeature: function (f, l) {
-   l.bindPopup(JSON.stringify(f.properties,null,' ').replace(/[\{\}"]/g,''));
+   l.bindPopup('<h2>Year: '+feature.properties.iyear+'</h2><p>Media Source: '+feature.properties.scite1+'</p>));
  }
             }
                                          );
