@@ -1,8 +1,8 @@
-<html>
+  <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-    <title>Map 2</title>
+    <title>European Terrorism and Nighttime Lights</title>
 
     <style>
       html,
@@ -20,7 +20,7 @@
     <script src="https://js.arcgis.com/4.18/"></script>
 
     <script>
-      require(["esri/views/MapView", "esri/WebMap"], function(MapView, WebMap) {
+      require(["esri/views/MapView", "esri/WebMap", "esri/widgets/Legend"], function(MapView, WebMap, Legend) {
 
         var webmap = new WebMap({
         portalItem: { // autocasts as new PortalItem()
@@ -32,6 +32,29 @@
           map: webmap,
           container: "viewDiv"
         });
+        view.when(function() {
+          // get the first layer in the collection of operational layers in the WebMap
+          // when the resources in the MapView have loaded.
+          var nl = webmap.layers.getItemAt(0);
+          var t = webmap.layers.getItemAt(1);
+
+          var legend = new Legend({
+            view: view,
+            layerInfos: [
+              {
+                layer: nl, 
+                title: "Top 50% DN Values of Nighttime Lights"
+              }, {
+              layer:t,
+              title:'Terrorist Attack'
+              }
+            ]
+          });
+
+          // Add widget to the bottom right corner of the view
+          view.ui.add(legend, "bottom-right");
+        });
+        
       });
     </script>
   </head>
