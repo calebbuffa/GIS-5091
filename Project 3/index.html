@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-    <title>European Terrorism and Nighttime Lights</title>
+    <title>Project 3</title>
 
     <style>
       html,
@@ -37,17 +37,14 @@
           // get the first layer in the collection of operational layers in the WebMap
           // when the resources in the MapView have loaded.
           var nl = webmap.layers.getItemAt(0);
-          var t = webmap.layers.getItemAt(1);
 
           var legend = new Legend({
             view: view,
             layerInfos: [
               {
                 layer: nl, 
-                title: "Top 50% DN Values of Nighttime Lights"
-              }, {
-              layer:t,
-              title:'Terrorist Attack'
+                title: "Ratio of Crime and Vacancy By Zip Code"
+              },
               }
             ]
           });
@@ -55,10 +52,6 @@
           // Add widget to the bottom right corner of the view
           view.ui.add(legend, "top-right");
           
-          t.featureReduction = {
-  type: "cluster",
-  clusterRadius: "75px"
-};
         });
         
       });
